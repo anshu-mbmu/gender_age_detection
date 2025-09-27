@@ -44,8 +44,9 @@ This project relies on the **UTKFace new** dataset from Kaggle.
         │   ├── age_gender_model.h5
         │   └── age_gender_model.keras
         ├── JNotebook/
-        │   ├── age_gender_model.h5
-        │   └── age_gender_model.keras
+        │   ├── dataVisualization.ipynb
+        │   └── modelTesting.ipynb
+        │   └── modelTrainig.ipynb
         ├── Sourcecode/
         │   ├── dataVisualization.py
         │   └── modelTesting.py
@@ -125,3 +126,4 @@ This project requires Python 3.11 and the following libraries:
 - `keras`
 - `opencv-python`
 - `jupyter`
+
